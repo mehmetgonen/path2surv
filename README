@@ -15,4 +15,4 @@ Path2Surv methods
 
 If you use any of the algorithms implemented in this repository, please cite the following paper:
 
-Onur Dereli, Ceyda Oguz, and Mehmet Gonen. Path2Surv: Pathway/gene set-based survival analysis using multiple kernel learning. Bioinformatics, in press.
+Onur Dereli, Ceyda Oguz, and Mehmet Gonen. Path2Surv: Pathway/gene set-based survival analysis using multiple kernel learning. Bioinformatics, 35(24):5137-5145, 2019.
